@@ -1,0 +1,2 @@
+org/launchcode/exerciseplanner/ExercisePlannerApplicationTests.java
+ org.launchcode.exerciseplanner.ExercisePlannerApplicationTests
